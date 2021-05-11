@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Picturest React Boilerplate
+
+Boilerplate code for Picturest's front-end app. Developed for Nuclio Digital School's Full Stack Development Master.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
